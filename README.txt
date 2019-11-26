@@ -1,5 +1,3 @@
 This package contains a semi-analytical forward solver to calculate VSP tube-wave data in Matlab. It is based on the following papers:
-- Minato, S. and Ghose, R.: Low-frequency guided waves in a fluid-filled borehole: Simultaneous effects of generation and scattering due to
-  multiple fractures, Journal of applied Physics, 121, 104 902, 2017.
-- Minato, S., Ghose, R., Tsuji, T., Ikeda, M., and Onishi, K.: Hydraulic Properties of Closely Spaced Dipping Open Fractures Intersecting a
-  Fluid-Filled Borehole Derived From Tube Wave Generation and Scattering, Journal of Geophysical Research: Solid Earth, 122, 2017.
+- Minato, S. and Ghose, R.: Low-frequency guided waves in a fluid-filled borehole: Simultaneous effects of generation and scattering due to multiple fractures, Journal of applied Physics, 121, 104 902, 2017.
+- Minato, S., Ghose, R., Tsuji, T., Ikeda, M., and Onishi, K.: Hydraulic Properties of Closely Spaced Dipping Open Fractures Intersecting a Fluid-Filled Borehole Derived From Tube Wave Generation and Scattering, Journal of Geophysical Research: Solid Earth, 122, 2017.
